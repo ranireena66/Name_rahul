@@ -1,3 +1,3 @@
-Your Name- Reena Rani
+Your Name:    Reena Rani
 Project Lab:  3
-Student ID- 8888490
+Student ID:   8888490
